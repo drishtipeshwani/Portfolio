@@ -1,0 +1,114 @@
+{
+  "main": {
+    "name": "Drishti Peshwani",
+    "occupation": "Spohomore at IIT Madras",
+    "description": "",
+    "image": "profilepic.jpeg",
+    "bio": "I am a second year Mechanical Engineering student at IIT Madras, currently the best educational institute. I have a great zeal for programming and I am always excited for solving challenges and working on real-world problems. I am skilled with C++, Python and Javascript and have worked with various tech frameworks. I am a self-dedicated person and always excited to learn and explore new things. Apart from this I love to dance and read books , they are a great tool for refreshing my mind.",
+    "contactmessage": "Get in touch with me !",
+    "email": "drishtipeshwani09@gmail.com",
+    "phone": "+919518599566",
+    "address": {
+      "Address": "Plot No.162 , Akshay Apartment",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "zip": "411017"
+    },
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/drishti-peshwani",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/thecodingsnippets/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/drishtipeshwani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Indian Institute of Technology Madras",
+        "degree": "B.Tech , Mechanical Engineering",
+        "graduated": "July 2023",
+        "description": ""
+      }
+    ],
+    "work": [
+       {
+        "company": "CuriousJr",
+        "title": "Software Developer Intern",
+        "years": "May 2021 - August 2021",
+        "description": "CuriousJr is an Ed-Tech mobile application to teach coding to kids. Worked with Blockly.js which is a javascript library to build visual programming editors to teach coding in an interactive manner."
+      },
+       {
+        "company": "Shaastra",
+        "title": "Head - Web Operations",
+        "years": "April 2021 - Present",
+        "description": "Leading a team of 10 developers. Spearheading frontend development of a PWA for Shaastra which will be used by around 10000+ users."
+      },
+      {
+        "company": "Resonect",
+        "title": "Developer",
+        "years": "May 2020 - Present",
+        "description": "Working on a social networking application which can be used as a common platform for our college students to communicate and connect with each other. Worked with Angular + Ionic Framework along with Firebase as a backend framework."
+      },
+      {
+        "company": "GirlScript Summer of Code",
+        "title": "Open Source Contributor",
+        "years": "March 2021 - May 2021",
+        "description": "One of the open source contributors to get selected out of 6000+ applicants. Worked on various issues like improvement of UI , implementing authentication for various open source projects as a part of this program over the period of 3 months."
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "87%"
+      },
+      {
+        "name": "Javascript",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Blog App (Flask)",
+        "category": "",
+        "image": "Blog.png",
+        "url": "https://github.com/drishtipeshwani/Thedailycoder"
+      },
+      {
+        "title": "Covid-19 Tracker",
+        "category": "",
+        "image": "CovidTracker.png",
+        "url": "https://github.com/drishtipeshwani/Covid-19-Tracker"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Drishti is very hardworking and dedicated person.She is always motivated to learn new things and help others",
+        "user": "Anjali"
+      }
+    ]
+  }
+}
